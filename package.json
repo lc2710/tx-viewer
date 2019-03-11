@@ -1,0 +1,21 @@
+{
+  "name": "chainviewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "expressjs": "^1.0.1",
+    "http": "^0.0.0",
+    "jssoup": "^0.0.10",
+    "web3": "^1.0.0-beta.48",
+    "ws": "^6.2.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
